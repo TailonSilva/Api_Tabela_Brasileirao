@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  },
+  "name": "tabela_brasileirao",
+  "version": "1.0.0",
+  "description": "Tabela do Campeonato Brasileiro com Consulta e informções do Banco de dados MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "author": "Tailon Silva",
+  "license": "MIT"
+}
